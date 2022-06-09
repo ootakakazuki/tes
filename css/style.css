@@ -10,6 +10,15 @@ footer{
     background-color: black;
 }
 
+.p-center{
+    margin: 30px 30px 30px 300px;
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+
 ul{
     display: flex;
     margin: 2px 2px 2px 420px;
